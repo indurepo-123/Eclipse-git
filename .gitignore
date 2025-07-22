@@ -1,4 +1,6 @@
-/target/
-/src/
-/test-output/
-/testng.xml
+.project
+.classpath
+.settings/
+target/
+*.log
+*.class
